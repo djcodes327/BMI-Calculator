@@ -19,3 +19,23 @@ const kNumLabelStyle = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+
+const kTitleStyle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultStyle = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBMIStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kDescriptionStyle = TextStyle(
+  fontSize: 22.0,
+);
